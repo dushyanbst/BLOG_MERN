@@ -72,10 +72,8 @@ This project was created using the following technologies.
 ![image](https://github.com/RajAditya01/FullStack-Blogs/assets/101439988/5fa713ed-3f5c-46e6-9941-85d75cecf231)
 
 ## Author
-- Github: [Aditya Raj](https://github.com/RajAditya01)
-- Linkedin: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-aa923721a/)
-- Email: [adityavishal903@gmail.com](mailto:adityavishal903@gmail.com)
 
+- Email:dushyantnagar147@gmail.com
 
 ## License
 
